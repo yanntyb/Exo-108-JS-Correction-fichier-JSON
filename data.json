@@ -5,5 +5,5 @@
       "nom": "Doe",
       "prenom": "John"
   },
-  "passions": "[dancer, travailler, sortir en boîte]"
+  "passions": ["dancer", "travailler", "sortir en boîte"]
 }
